@@ -1,0 +1,10 @@
+E:\MRDTRepos\FSharpTest\FSharpTest\bin\Debug\FSharpTest.exe.config
+E:\MRDTRepos\FSharpTest\FSharpTest\bin\Debug\FSharpTest.XML
+E:\MRDTRepos\FSharpTest\FSharpTest\bin\Debug\FSharpTest.exe
+E:\MRDTRepos\FSharpTest\FSharpTest\bin\Debug\FSharpTest.pdb
+E:\MRDTRepos\FSharpTest\FSharpTest\bin\Debug\FSharp.Core.dll
+E:\MRDTRepos\FSharpTest\FSharpTest\bin\Debug\FSharp.Core.xml
+E:\MRDTRepos\FSharpTest\FSharpTest\obj\Debug\FSharpTest.exe
+E:\MRDTRepos\FSharpTest\FSharpTest\obj\Debug\FSharpTest.pdb
+E:\MRDTRepos\FSharpTest\FSharpTest\bin\Debug\Octokit.dll
+E:\MRDTRepos\FSharpTest\FSharpTest\bin\Debug\Octokit.xml
